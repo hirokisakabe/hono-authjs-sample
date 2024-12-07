@@ -5,6 +5,8 @@
     "dev": "tsx watch src/index.ts"
   },
   "dependencies": {
+    "@auth/core": "^0.37.4",
+    "@hono/auth-js": "^1.0.15",
     "@hono/node-server": "^1.13.7",
     "hono": "^4.6.13"
   },
